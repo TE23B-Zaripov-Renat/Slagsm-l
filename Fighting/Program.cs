@@ -46,7 +46,6 @@ Console.WriteLine("Tryck på valfri knapp för att avsluta.");
 Console.ReadLine();
 
 
-
 // while (true)
 // {
 
